@@ -8,19 +8,29 @@
 
 格式：标题{原文章链接}{本仓库链接}
 
-* 简易OA系统
+## 简易OA系统
 
->[https://github.com/memoryoverflow/OA](https://github.com/memoryoverflow/OA) 
+* [https://github.com/memoryoverflow/OA](https://github.com/memoryoverflow/OA) 
 
->[https://gitee.com/JwangTec/OA](https://gitee.com/JwangTec/OA)
+* [https://gitee.com/JwangTec/OA](https://gitee.com/JwangTec/OA)
 
 # utils directory
 
 格式：工具{原作者链接}{本仓库链接}
 
+## Java常用小工具 
+
+* [https://github.com/0opslab/opslabJutil](https://github.com/0opslab/opslabJutil)
+
+* [utils_directory/opslabJutil](https://gitee.com/JwangTec/Knowledge-porter/tree/main/utils_directory/opslabJutil)
+
 # Artivle directory
 
 格式： 文章{原作者链接}{本仓库链接}
+
+## git
+
+* [git常用命令](https://www.cnblogs.com/convict/p/10795320.html)
 
 # Video directory
 
