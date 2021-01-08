@@ -8,6 +8,12 @@
 
 格式：标题{原文章链接}{本仓库链接}
 
+* 简易OA系统
+
+>[https://github.com/memoryoverflow/OA](https://github.com/memoryoverflow/OA) 
+
+>[https://gitee.com/JwangTec/OA](https://gitee.com/JwangTec/OA)
+
 # utils directory
 
 格式：工具{原作者链接}{本仓库链接}
